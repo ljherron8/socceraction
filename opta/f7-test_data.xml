@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2018 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a03.nexus.opta.net
+     production time:    20181128T103549,933Z
+     production module:  Opta::Feed::XML::Soccer::F7
+-->
+<SoccerFeed TimeStamp="20181128T103548+0000">
+  <SoccerDocument Type="Result" detail_id="1" uID="f1009316">
+    <Competition uID="c23">
+      <Country>Spain</Country>
+      <Name>Spanish La Liga</Name>
+      <Stat Type="season_id">2018</Stat>
+      <Stat Type="season_name">Season 2018/2019</Stat>
+      <Stat Type="symid">ES_PL</Stat>
+      <Stat Type="matchday">1</Stat>
+    </Competition>
+    <MatchData>
+      <MatchInfo MatchType="Regular" Period="N/A" TimeStamp="20180820T225140+0100" Weather="Clear">
+        <Attendance>0</Attendance>
+        <Date>20180820T210000+0100</Date>
+        <Result Type="Canceled" Winner="N/A" />
+      </MatchInfo>
+      <MatchOfficial uID="o44152">
+        <OfficialData>
+          <OfficialRef Type="Main" />
+        </OfficialData>
+        <OfficialName>
+          <First>Adrián</First>
+          <Last>Cordero Vega</Last>
+        </OfficialName>
+      </MatchOfficial>
+      <AssistantOfficials>
+        <AssistantOfficial FirstName="José Carlos" LastName="Escuela Melo" Type="Lineman 1" uID="o46297" />
+        <AssistantOfficial FirstName="Antonio Luis" LastName="Cerezo Parfenof" Type="Lineman 2" uID="o46315" />
+        <AssistantOfficial FirstName="José Alberto" LastName="Pardeiro Puente" Type="Fourth official" uID="o46726" />
+        <AssistantOfficial FirstName="Juan" LastName="Martínez Munuera" Type="Video Assistant Referee" uID="o42138" />
+      </AssistantOfficials>
+      <Stat Type="match_time">0</Stat>
+      <Stat Type="first_half_start">0</Stat>
+      <Stat Type="first_half_time">0</Stat>
+      <Stat Type="first_half_stop">0</Stat>
+      <Stat Type="second_half_start">0</Stat>
+      <Stat Type="second_half_time">0</Stat>
+      <Stat Type="second_half_stop">0</Stat>
+      
+      
+    </MatchData>
+    <Team uID="t174">
+      <Country>Spain</Country>
+      <Kit id="2266" colour1="#FF3300" colour2="#FFFFFF" type="home" />
+      <Name>Athletic Club</Name>
+      <Player Position="Goalkeeper" uID="p212769">
+        <PersonName>
+          <First>Unai</First>
+          <Last>Simón</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p59062">
+        <PersonName>
+          <First>Óscar</First>
+          <Last>De Marcos</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p197319">
+        <PersonName>
+          <First>Yeray</First>
+          <Last>Álvarez</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p242831">
+        <PersonName>
+          <First>Peru</First>
+          <Known>Peru Nolaskoain</Known>
+          <Last>Nolaskoain</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p42670">
+        <PersonName>
+          <First>Yuri</First>
+          <Known>Yuri</Known>
+          <Last>Berchiche Izeta</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p76012">
+        <PersonName>
+          <First>Iker</First>
+          <Last>Muniain</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p140264">
+        <PersonName>
+          <First>Daniel</First>
+          <Known>Dani García</Known>
+          <Last>García Carrillo</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p183462">
+        <PersonName>
+          <First>Unai</First>
+          <Last>López</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p14464">
+        <PersonName>
+          <First>Aritz</First>
+          <Last>Aduriz</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p47665">
+        <PersonName>
+          <First>Markel</First>
+          <Last>Susaeta</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p197334">
+        <PersonName>
+          <First>Iñaki</First>
+          <Last>Williams</Last>
+        </PersonName>
+      </Player>
+      
+    <Team uID="t957">
+      <Country>Spain</Country>
+      <Kit id="1532" colour1="#3333FF" colour2="#FFFFFF" type="home" />
+      <Name>Leganés</Name>
+      <Player Position="Goalkeeper" uID="p16261">
+        <PersonName>
+          <First>Iván</First>
+          <Last>Cuéllar</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p54795">
+        <PersonName>
+          <First>Ezequiel</First>
+          <Last>Muñoz</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p47645">
+        <PersonName>
+          <First>Juan Francisco</First>
+          <Known>Juanfran</Known>
+          <Last>Moreno Fuertes</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p53020">
+        <PersonName>
+          <First>Dimitrios</First>
+          <Last>Siovas</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Defender" uID="p80908">
+        <PersonName>
+          <First>Raúl</First>
+          <Known>Raúl García</Known>
+          <Last>García</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p116132">
+        <PersonName>
+          <First>Jonathan</First>
+          <Last>Silva</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p59945">
+        <PersonName>
+          <First>Rubén</First>
+          <Last>Pérez</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p161030">
+        <PersonName>
+          <First>Gerard</First>
+          <Last>Gumbau</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Midfielder" uID="p40380">
+        <PersonName>
+          <First>Nabil</First>
+          <Last>El Zhar</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p98914">
+        <PersonName>
+          <First>Guido</First>
+          <Last>Carrillo</Last>
+        </PersonName>
+      </Player>
+      <Player Position="Striker" uID="p90483">
+        <PersonName>
+          <First>Javier</First>
+          <Last>Eraso</Last>
+        </PersonName>
+      </Player>
+      
+      <TeamOfficial Type="Manager" uID="man41736">
+        <PersonName>
+          <First>Mauricio</First>
+          <Last>Pellegrino</Last>
+        </PersonName>
+      </TeamOfficial>
+    </Team>
+    <Venue uID="v8973">
+      <Country>Spain</Country>
+      <Name>San Mamés</Name>
+    </Venue>
+  </SoccerDocument>
+</SoccerFeed>

@@ -1,0 +1,148 @@
+{
+  "match": [
+    {
+      "matchInfo": {
+        "id": "bsu6pjne1eqz2hs8r3685vbhl",
+        "coverageLevel": "13",
+        "date": "2016-02-20Z",
+        "time": "12:00:00Z",
+        "week": "22",
+        "lastUpdated": "2021-06-25T10:43:44Z",
+        "description": "Karlsruher SC vs Eintracht Braunschweig",
+        "sport": {
+          "id": "289u5typ3vp4ifwh5thalohmq",
+          "name": "Soccer"
+        },
+        "ruleset": {
+          "id": "79plas4983031idr6vw83nuel",
+          "name": "Men"
+        },
+        "competition": {
+          "id": "722fdbecxzcq9788l6jqclzlw",
+          "name": "2. Bundesliga",
+          "competitionCode": "2.B",
+          "competitionFormat": "Domestic league",
+          "country": {
+            "id": "36min0qztu8eydwvpv8t1is0m",
+            "name": "Germany"
+          }
+        },
+        "tournamentCalendar": {
+          "id": "408bfjw6uz5k19zk4am50ykmh",
+          "startDate": "2015-07-24Z",
+          "endDate": "2016-05-15Z",
+          "name": "2015/2016"
+        },
+        "stage": {
+          "id": "6tca7sbnh37w596ws64rrez8p",
+          "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+          "startDate": "2015-07-24Z",
+          "endDate": "2016-05-15Z",
+          "name": "Regular Season"
+        },
+        "contestant": [
+          {
+            "id": "aojwbjr39s1w2mcd9l2bf2dhk",
+            "name": "Karlsruher SC",
+            "shortName": "Karlsruhe",
+            "officialName": "Karlsruher SC",
+            "code": "KSC",
+            "position": "home",
+            "country": {
+              "id": "36min0qztu8eydwvpv8t1is0m",
+              "name": "Germany"
+            }
+          },
+          {
+            "id": "kxpw3rqn4ukt7nqmtjj62lbn",
+            "name": "Eintracht Braunschweig",
+            "shortName": "Braunschweig",
+            "officialName": "Braunschweiger TSV Eintracht 1895",
+            "code": "EBS",
+            "position": "away",
+            "country": {
+              "id": "36min0qztu8eydwvpv8t1is0m",
+              "name": "Germany"
+            }
+          }
+        ],
+        "venue": {
+          "id": "3kjfhyt2g4y2enxkdxrdfscxi",
+          "neutral": "no",
+          "longName": "BBBank Wildpark",
+          "shortName": "BBBank Wildpark"
+        }
+      },
+      "liveData": {
+        "matchDetails": {
+          "periodId": 14,
+          "matchStatus": "Canceled",
+          "winner": "N/A",
+          "matchLengthMin": 0,
+          "matchLengthSec": 0,
+          "period": [
+            {
+              "id": 0,
+              "start": "0",
+              "end": "0",
+              "lengthMin": 0,
+              "lengthSec": 0
+            },
+            {
+              "id": 0,
+              "start": "0",
+              "end": "0",
+              "lengthMin": 0,
+              "lengthSec": 0
+            }
+          ],
+          "scores": {
+            "ht": {
+              "home": 0,
+              "away": 0
+            },
+            "ft": {
+              "home": 0,
+              "away": 0
+            },
+            "total": {
+              "home": 0,
+              "away": 0
+            }
+          }
+        },
+        
+        
+        "matchDetailsExtra": {
+          "attendance": "12746",
+          "matchOfficial": [
+            {
+              "id": "5jncj8i1pzgcvmkp2zufh8dsl",
+              "type": "Main",
+              "firstName": "Robert",
+              "lastName": "Kampka"
+            },
+            {
+              "id": "efvjrgi8sxkc1n3xzb4iolg45",
+              "type": "Lineman 1",
+              "firstName": "Tobias",
+              "lastName": "Reichel"
+            },
+            {
+              "id": "dklhp3meedvpmy4g3yn1cukt1",
+              "type": "Lineman 2",
+              "firstName": "Jonas",
+              "lastName": "Weickenmeier"
+            },
+            {
+              "id": "3wlgme2da228dbve370hzo7v9",
+              "type": "Fourth official",
+              "firstName": "Torsten",
+              "lastName": "Bauer"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

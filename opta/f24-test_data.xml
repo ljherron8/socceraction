@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2018 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a04.nexus.opta.net
+     production time:    20181128T103548,692Z
+     production module:  Opta::Feed::XML::Soccer::F24
+-->
+<Games timestamp="2018-11-28T10:35:47">
+  <Game id="1009316" away_score="0" away_team_id="957" away_team_name="Leganés" competition_id="23" competition_name="Spanish La Liga" game_date="2018-08-20T21:00:00" home_score="0" home_team_id="174" home_team_name="Athletic Club" matchday="1" period_1_start="N/A" period_2_start="N/A" season_id="2018" season_name="Season 2018/2019">
+      </Game>
+</Games>
